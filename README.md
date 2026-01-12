@@ -153,9 +153,12 @@ outputs/
 ## 👤 Maintainer
 
 **Tanmay Thaker**
+
 Machine Learning Engineer
 Gatekeeper Systems
 
+## Guided & Supported By:
+* **Ruo Jia**
 ---
 
 
